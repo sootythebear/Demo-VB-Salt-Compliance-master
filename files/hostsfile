@@ -1,0 +1,4 @@
+
+#### /etc/hosts entries for SaltStack Master/minion solution
+172.28.128.18	saltmaster.net	saltmaster
+172.28.128.19	saltminion.net	saltminion
